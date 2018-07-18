@@ -22,6 +22,9 @@ take a stab at the problems themselves before looking at this code.
 
 ## What language(s) are you using?
 
+- [Ruby](https://github.com/bergren2/konigsberg-ruby)
+- [Scala](https://github.com/bergren2/konigsberg-scala)
+
 I originally intended to use Project Euler as a way to learn new languages.
 After sitting on that strategy for some time and seeing how it worked as the
 problems became more difficult, I realized I'm better off using one language
