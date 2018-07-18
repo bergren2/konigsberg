@@ -11,10 +11,10 @@ Solutions to various problems on the Internet, including:
 
 ## Languages
 
-| Language | Travis CI | Codacy |
-|:---------|:----------|:-------|
-| [Ruby](https://github.com/bergren2/konigsberg-ruby) | [![Build Status](https://travis-ci.com/bergren2/konigsberg-ruby.svg?branch=master)](https://travis-ci.com/bergren2/konigsberg-ruby) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a8961f8c4c224c90bf8aaa837a7694e0)](https://www.codacy.com/app/basstheorychaos/konigsberg-ruby?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bergren2/konigsberg-ruby&amp;utm_campaign=Badge_Grade) |
-| [Scala](https://github.com/bergren2/konigsberg-scala) | [![Build Status](https://travis-ci.com/bergren2/konigsberg-scala.svg?branch=master)](https://travis-ci.com/bergren2/konigsberg-scala) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb3325e18edd4f63addc7fcde7266ac3)](https://www.codacy.com/app/basstheorychaos/konigsberg-scala?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bergren2/konigsberg-scala&amp;utm_campaign=Badge_Grade) |
+| Language | Build Status | Code Quality | Test Coverage |
+|:---------|:-------------|:-------------|:--------------|
+| [Ruby](https://github.com/bergren2/konigsberg-ruby) | [![Build Status](https://travis-ci.com/bergren2/konigsberg-ruby.svg?branch=master)](https://travis-ci.com/bergren2/konigsberg-ruby) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a8961f8c4c224c90bf8aaa837a7694e0)](https://www.codacy.com/app/basstheorychaos/konigsberg-ruby?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bergren2/konigsberg-ruby&amp;utm_campaign=Badge_Grade) | [![Coverage Status](https://coveralls.io/repos/github/bergren2/konigsberg-ruby/badge.svg?branch=coveralls)](https://coveralls.io/github/bergren2/konigsberg-ruby?branch=coveralls) |
+| [Scala](https://github.com/bergren2/konigsberg-scala) | [![Build Status](https://travis-ci.com/bergren2/konigsberg-scala.svg?branch=master)](https://travis-ci.com/bergren2/konigsberg-scala) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb3325e18edd4f63addc7fcde7266ac3)](https://www.codacy.com/app/basstheorychaos/konigsberg-scala?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bergren2/konigsberg-scala&amp;utm_campaign=Badge_Grade) | [![Coverage Status](https://coveralls.io/repos/github/bergren2/konigsberg-scala/badge.svg?branch=master)](https://coveralls.io/github/bergren2/konigsberg-scala?branch=master) |
 
 ## What is this?
 
