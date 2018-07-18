@@ -9,6 +9,13 @@ Solutions to various problems on the Internet, including:
 - [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 - [Wolfram Challenges](https://challenges.wolfram.com)
 
+## Languages
+
+| Language | Travis CI | Codacy |
+|:---------|:----------|:-------|
+| [Ruby](https://github.com/bergren2/konigsberg-ruby) | [![Build Status](https://travis-ci.com/bergren2/konigsberg-ruby.svg?branch=master)](https://travis-ci.com/bergren2/konigsberg-ruby) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a8961f8c4c224c90bf8aaa837a7694e0)](https://www.codacy.com/app/basstheorychaos/konigsberg-ruby?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bergren2/konigsberg-ruby&amp;utm_campaign=Badge_Grade) |
+| [Scala](https://github.com/bergren2/konigsberg-scala) | | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb3325e18edd4f63addc7fcde7266ac3)](https://www.codacy.com/app/basstheorychaos/konigsberg-scala?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bergren2/konigsberg-scala&amp;utm_campaign=Badge_Grade) |
+
 ## What is this?
 
 I use this repository to track solutions I have come up with for various
@@ -20,10 +27,7 @@ features such as test suites and libraries.
 I know this goes without saying, but **these are solutions**. You should really
 take a stab at the problems themselves before looking at this code.
 
-## What language(s) are you using?
-
-- [Ruby](https://github.com/bergren2/konigsberg-ruby)
-- [Scala](https://github.com/bergren2/konigsberg-scala)
+## Why multiple languages?
 
 I originally intended to use Project Euler as a way to learn new languages.
 After sitting on that strategy for some time and seeing how it worked as the
