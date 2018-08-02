@@ -1,6 +1,6 @@
 # Königsberg
 
-[![Project Euler Badge](https://projecteuler.net/profile/bergren2.png)](https://projecteuler.net/profile/bergren2.png)
+![Project Euler Badge](https://projecteuler.net/profile/bergren2.png)
 
 Solutions to various problems on the Internet, including:
 
