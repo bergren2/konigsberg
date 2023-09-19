@@ -31,8 +31,9 @@ on language, and then further separated by site and problem.  If I've solved
 several problems with a particular language, there will usually be advanced
 features such as test suites and libraries.
 
-I know this goes without saying, but **these are solutions**. You should really
-take a stab at the problems themselves before looking at this code.
+> [!WARNING]
+> I know this goes without saying, but **these are solutions**. You should really
+> take a stab at the problems themselves before looking at this code.
 
 ## Why multiple languages?
 
